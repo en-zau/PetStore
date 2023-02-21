@@ -5,17 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71af3615-9c94-400f-9ecd-03af901042b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/PetStore/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/PetStore/entities/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/PetStore/entities/PetStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/PetStore/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/PetStore/entities/enumere/FishLivEnv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/PetStore/entities/enumere/ProdType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/PetStore/entities/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/PetStore/entities/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/PetStore/entities/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/PetStore/entities/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/PetStore/entities/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/PetStore/entities/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/PetStore/entities/PetStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/PetStore/entities/PetStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/PetStore/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/PetStore/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/PetStore/entities/enum/FishLivEnv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/PetStore/entities/enum/ProdType.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +57,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -72,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676972721349</updated>
-      <workItem from="1676972722460" duration="1731000" />
+      <workItem from="1676972722460" duration="2431000" />
     </task>
     <servers />
   </component>
