@@ -10,7 +10,6 @@
         <class>org.PetStore.entities.Product</class>
         <class>org.PetStore.entities.Cat</class>
         <class>org.PetStore.entities.Fish</class>
-        <!--		<class>fr.epsi.b32223.banque.entite.LivretA</class>-->
         <properties>
             <!-- desactiver l'autodetection des classes de type @Entity -->
             <property name="hibernate.archive.autodetection" value="" />
